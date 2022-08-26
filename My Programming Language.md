@@ -1,25 +1,26 @@
-<Pompous>
+# Pompous
+---
 
 
+*If/Else* - Perchance/otherwise 
 
-If/Else - Perchance/otherwise 
+*While* - Whilst
 
-While - Whilst
+*For* - Inasmuch
 
-For - Inasmuch
+*Variables* - Retention
 
-Variables - Retention
+*Constants* - Sturdies
 
-Constants - Sturdies
+*String* - Babbles
 
-String - Babbles
+*Array* - Pigeonhole
 
-Array - Pigeonhole
+*Return* - Reciprocate
 
-Return Reciprocate
-
-print.in =  giveForth
-
+*print.in* =  giveForth
+# Hello World Function
+---
 -Hello World Function
 <pompous>
 giveForth(“Hello World”)
@@ -27,6 +28,8 @@ giveForth(“Hello World”)
 
 </pompous>
 
+# Complex Function
+---
 -If age is 21
 
 <pompous>

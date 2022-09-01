@@ -22,7 +22,7 @@ When planning on implementing a new system, including discussing new hardware, c
 There is also a varity of issues that should be taken into consideration during the planning process:
 A lack of ...
   - Organizational & Bussiness strategy
-  - Stakeholder &end-user participation
+  - Stakeholder & end-user participation
   -End-user 'ownership'
 
 Attention to ...
@@ -36,7 +36,24 @@ After considering the issues mentioned above a feasibility study should be condu
 T: Technical (Here all hardware and software would be justified in whether it is necessary for the new system)
 E: Economic (Relates to the budget for a project and how money will be spent, financial costs for purchasing new hardware or software, cost on training staff or timelines running past deadlines)
 L: Legal (are there any conflicts between the proposed system and any local laws, regulation, etc.)
-O:
-S:
+O: Operational (Realtes to whether the participants will be able to handle the new system. Factors that need to be considered include the technical skills of employees, as well whether or not raining will be nescessary for sstaff and what materials would need ro be avaliable for training.)
+S: Schedule (Relates to the amount of time allocated to the development of the new system. The time frame would be assessed, as projects that run overtime can have both a financial and organizational impact on business.)
+
+\033[1m Changing Management \033[0m
+Changing systems almsot always includes some form of change management. This may ne shifting, hiring, or letting go employees or whole deparments, it may be just changing the process or work they do.
+
+Organizantial Change
+  -Refers to the actions in which a company or business alters a major componet of its organization such as: its culture, underlying technologies or infrastructure it uses to operate, or its internal processes.
+
+Change is often approached with concern, and sometimes fear; especially if it includes new tech or somputerized/automated systems. Change management should maximize benefits and mimimize negatives, for all stakeholders, including the employees.
+
+Successful change management should result in buy-in from all stakeholders. Resistance or conflict related to new processes or work stations suggests change mangagement was not entirely successful. Some famay fear that they may lose their job with increased automation, and unfortuanately this sometimes comes true.
+
+\033[1m Business Mergers \033[0m
+  - Mergers combine two seperate businesses into a single new legal entity. True megers are uncommmon because it's rare for two equal companies to mutaully benefit from combing resources and staff, including their CEOs. 
+
+\033[1m Modern Example from the US Post Office \033[0m
+Almost all letters in the US are taken to the closest processing center, where cameras and computer take a picture of the front of the envelope and read the address with optical characyer regonition, OCR.
+
 
 """)

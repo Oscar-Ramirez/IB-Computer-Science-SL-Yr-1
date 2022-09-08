@@ -63,3 +63,33 @@ There are rules that the person who is reading that have to follow such as the 3
 \033[1m Hypothetical Example \033[0m
 If this new system was implemented some affects that might happen is that if there was multiple secretaries to help put in the order than some would be let go since the salesperson is now handling the orders and not the secretaries.
 """)
+
+print("""Continuing Systems
+
+\033[1m System Changeover \033[0m
+Is the process used to swithc from one system to another. The smaller environments like an individual changing their perosnal system or a family changing theirs probably won't have much thought or concern.
+The larger the environment becomes the more problematic and complicated changing that system may be.
+A company or organization likely handles and stores people's personal data, financial information, and may also be tired to people's livelihood health and wellness or a region's infrastructure.
+System changeover in facilities like medidical facilities, power planets, and communication provider can lead to significant consequences so there are various stratigies that can be used to change systems.
+
+\033[1m Implementation Methods \033[0m
+
+Parrallel: Both systems work in parallel for a short period of time, this allows for measuring output of the new system before the old system is taken offline.
+If the new system is not sastifactory in its functionality then those issues can be ironed out while the old system is still running. 
+This can be both expensive and taxing as both systems are running at the smae time.
+This may require addtional man power, computer or network resources, and financial expense and if the two systems are drastically different then this method can be extremly uneffecient for how long this change will take.
+
+Big Bang/Direct/Immediate: As soon as preperations are made one system is entirely discontinued, and the other is brought online.
+This is the least taxing on computer and network resources but requires frontloading training priot to the changeover.
+Any data that needs to be transfered from old system to new may need a third system or external location while the changeover happens.
+
+Pilot: A smaller group of an organization or company changes to this new system. Allows for test on the new system and iron-out issues with lower risk before it is implemented to the whole organization.
+Once the system is succesful in the pilot group then it planning for whole company implementation can start.
+
+Phased: Change one part of the system at a time over a period of time. 
+The old and new system may need to be similar enough for the data and process go back and forth between the two.
+This process will generally take longer as each phase is implemented seperately.
+
+\033[1m Related to Data Migration \033[0m
+
+""")

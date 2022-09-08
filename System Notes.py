@@ -1,4 +1,4 @@
-print("""August 30th, 2022 Computer Science Notes
+print("""Starting Systems
 
 \033[1m What is a System? \033[0m
 A system is not just hardware + sofeware, it also includes people and immediate environment. A system may include: training employees and/or users, as well as maintaining and protecting data or hardware.
@@ -54,6 +54,12 @@ Successful change management should result in buy-in from all stakeholders. Resi
 
 \033[1m Modern Example from the US Post Office \033[0m
 Almost all letters in the US are taken to the closest processing center, where cameras and computer take a picture of the front of the envelope and read the address with optical characyer regonition, OCR.
+What if the handwriting on the letter is bad?
+The post office have a system in place where letters are sent to a facility to verify what the handwriting is saying.
+The system they have in place is solefy for the purpose of reading bad writing and to make it more efficent for the person who is reading the hand writing. From the software that is used to the custom key board that are used for their work.
+On the software being used, it tracks that amount the work and progress that been made for the day.
+There are rules that the person who is reading that have to follow such as the 3+1 rule and writing exactly what the sender wrote.
 
-
+\033[1m Hypothetical Example \033[0m
+If this new system was implemented some affects that might happen is that if there was multiple secretaries to help put in the order than some would be let go since the salesperson is now handling the orders and not the secretaries.
 """)

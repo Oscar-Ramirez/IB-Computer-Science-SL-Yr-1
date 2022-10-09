@@ -17,6 +17,14 @@ Please choose one of the options below, and press enter
 11) Phases in Data Migration
 12) Related to Business M&A
 13) Strategies for integration
+14) On-Premise Software
+15) Saas
+16) Software Lifecycle
+17) Functional Testing
+18) Debugging
+19) Validation vs Verification
+20) Testing and Types of Testing
+21) Types of Data used in Testing
 
 
 """)
@@ -119,4 +127,78 @@ Both systems may be kept, with development to have the same functionality. Runni
 Both systems may be replaced with a new system. This may result in a new system that meets the new company/organization's needs better overall, but will have higher increased initial costs, including new training for all employees.
 Select the best system components from each and merge them. This provides some familiarity for original employees from both, but may result in a longer period to become adjusted to the entire system due to operating by habit in some parts instead of a total change.
 Select the better of the two systems, and drop the other system entirely. Those used to the dropped system may show resistance to change, and there may be policy issues. However, those already familiar with the chosen system can be resources since they are already experienced with it.
+""")
+  elif(userchoice == "14"):
+    print("""On-Premise Software
+Installed and runs on computers on the premise of the person or organization instead of a remote facility like a server farm or cloud
+Sometimes referred to as “shrinkwrap” software
+Typically requires IT staff or IT support or Software engineer which can result in more cost.)
+  elif(userchoice == "15"):
+    print(Saas
+Meaning “Software as a service”
+A software licensing and delivary meodel in which software is licensed on a subscription basis and is centrally hosted.
+Sometimes refered as “on-demand software” and was formally refered as “software plus services” by Microsoft
+Advantages
+Lower Initial cost, likely faster implementaion
+Maintencance and updates by software manudacturer
+No staff needed to maintain the system
+Software manufacturer likely provides more support
+On-site natural disasters do not put data at risk
+Disadvantages
+continued subscription fees may ultimately be more expensive than On-premises software or custom designed software for large companies
+Potential data-risk from software manufacturer
+Potential differing time zones, maintenance and support may not be at convenient times
+Specialized or unusual needs of a specific client may not be a priority of the software manufacturer
+Because host is not the user itself, user feedback is harder to get
+System change may be required sooner than ideal if the service is discontinued, the company seeks new functionality that the manufacturer is not interested in adding, or the manufacturer goes out of business
+""")
+  elif(userchoice == "16"):
+    print("""Software Lifecycle
+Planning
+Customer will find the company they want to use for their project, meeting with that companies project manager or product owner, discuss terms of agreement, sign the deal, then start the project. Requirements for the application will also be outlined and future requirements may be added
+Requirement Analysis
+Define each outline reuirement and give more planning details
+Design
+Takes all the requirements and starts to plan the product, may include: business rules, user-interface layout, color schemes, which programming languages to use, frame works, system server design, database relationships, archtech of the application, mobile aspects, supported browsers and much more.
+Implementaion / Coding
+Physical hardware will be setup, code will start being written, continuing planning user-interface, and analyze requirements to test cases for their test plans
+Testing
+Start testings and executing test plans that were created, validate that all the requirements are met, make sure all functionality is working as expected, find and fix bugs, 
+Deployment
+Mirror the staging or development setup and make it scaleable for production, install new hardware,  set up links, databases, and syncing up the development teams and release managers, application will go live for real users
+Maintenance
+Making sure that the application is stable and works and makikng sure that the servers are able to work properly and any bugs that are found are sorted out.
+""")
+  elif(userchoice == "17"):
+    print("""Functional Testing: A type of software testing that validates the software system against the functional requirements/specifications.
+""")
+  elif(userchoice == "18"):
+    print("""Debugging: The systematic process of correcting and finding bugs or erros in a program.
+""")
+  elif(userchoice == "19"):
+    print("""Validation vs Verification
+Verification: A way of preventing errors when data is copied from one medium to another. Only makes sure that data matches.
+Validation: An automatic computer check to ensure that the data entered is sensible and reasonable.
+""")
+  elif(userchoice == "20"):
+    print("""Testing and Types of Testing
+Two Categories: Dynamic and Static
+Dynamic: Using the system to test, running and operating the software or system for testing.
+Static: Testing where the software or system is not actually running, maybe analyzing the algorithm design, reviewing code, or checking client’s request.
+Variety of methods relating to testing: Functional, User Acceptance, and Integration.
+Functional: testing individual commands, text input, menu functions, etc.
+User Acceptance: Determining if the system satisfies the customer’s need. Usually done on premise before the system or software is shipped or transferred to the customer. 
+Integration: Test different parts of a system or software, this also often includes inputting data to verify whether or not the system returns the expect output. 
+Dry Run Testing: The process of a programmer manually working through their code to trace the value of variables.
+Alpha Testing: The software or system is release to those within the cmpany or organization who are not specifically involved in the development or implementaqtion of the product. This allows for them to get feedback and testing data similar to how actual customers would use the new product.
+Beta Testing: The software system is availble to the public or a group consisting of the public. This is closest and most realist testing that is possible for a new product.
+""")
+  elif(userchoice == "21"):
+    print("""Types of data used in Testing: Normal, At the Limits, Extreme, and Abnormal
+Normal: Typical data (expected) that should be accepeted by the system
+Extreme: Data at the upper or lower limits of the expections that shold be accepted by the system
+At the Limits: A pair of values at each end of a range
+The data at the upper or lower limits of expectations thta sould be accepted
+The immediate values before or beyond the limits of expectations that should be rejected
+Abnormal: Data that falls outside of what is acceptable and should be rejceted by the system
 """)
